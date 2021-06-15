@@ -17,3 +17,4 @@ upper_idx = round(n*(1-alpha/2))-1
 # -- d
 print("Lower: ",sorted_values[lower_idx])
 print("Upper: ",sorted_values[upper_idx])
+
